@@ -6,5 +6,5 @@
 >
 > ```
 >
-> npm install
+> npm install react
 > ```
